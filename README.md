@@ -2,15 +2,29 @@
 
 ## 關於唯客學院：
 
-* [唯客學院網址](http://www.vcdemy.com)
+* [唯客學院網址](https://www.vcdemy.com)
 * [唯客學院粉絲專頁](https://www.facebook.com/vcdemy/)
-* [唯客學院線上課程](https://khpy.teachable.com)
+* [唯客學院線上課程](https://vcdemy.teachable.com)
 
 ## 課程內容：
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vcdemy/quant/)
 
-### 1. 文件導覽
+* 如何讀取公司基本資料？
+* 如何讀取股價歷史資料？
+* 如何繪製股票線圖？
+* 如何使用 pandas 做簡單分析？
+* 如何分析基金績效？
+* 如何計算新聞的情緒指標？
+* 如何讀取0050成分股？
+* 如何讀取SPY成分股？
+* 如何使用財報選股？
+* 如何抓取景氣對策訊號？
+* 應用練習
+  * 實作財報選股
+  * 實作回測
+
+### 相關連結
 
 * [Numpy](https://numpy.org/)
 * [MatPlotLib](https://matplotlib.org/)
@@ -27,29 +41,7 @@
 * [PyAlgoTrade](https://gbeced.github.io/pyalgotrade/)
 * [TradingView](https://www.tradingview.com/)
 
-### 2. 實作引導
-
-* 如何讀取公司基本資料？
-* 如何讀取股價歷史資料？
-* 如何繪製股票線圖？
-* 如何使用 pandas 做簡單分析？
-* 如何分析基金績效？
-* 如何計算新聞的情緒指標？
-* 如何讀取0050成分股？
-* 如何讀取SPY成分股？
-* 如何使用財報選股？
-* 如何抓取景氣對策訊號？
-* 如何使用 TradingView 看技術線圖？
-* TradingView pine script 簡介
-
-### 3. 自我挑戰
-
-* 實作財報選股
-* 實作一個策略使用Backtesting.py回測
-* 實作一個策略使用Backtrader回測
-* 實作一個策略使用PyAlgoTrade回測
-
-### 參考資料
+### 其他參考資料
 
 * [IT邦幫忙 - 永豐金融API](https://ithelp.ithome.com.tw/2021ironman/signup/list?group=sinopac-api)
 * [量化交易30天](https://ithelp.ithome.com.tw/users/20129306/ironman/3071)
